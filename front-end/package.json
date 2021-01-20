@@ -1,5 +1,6 @@
 {
   "name": "pair-programming-app",
+  "homepage":"https://sandyngu.github.io/pair-programming-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

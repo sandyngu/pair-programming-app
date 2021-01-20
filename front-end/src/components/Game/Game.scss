@@ -34,7 +34,7 @@
     }
     &__artist {
         font-size: 3rem;
-        color: rgb(253,220,242);
+        color: #c9f2ef;
     }
     &__album-cover {
         width: 300px;
@@ -74,7 +74,7 @@
         width: 800px;
         border-radius: 10px;
         border: 2px solid black;
-        background-color:rgb(253,220,242);
+        background-color: #c9f2ef;
 
         &:hover {
             cursor: pointer;
