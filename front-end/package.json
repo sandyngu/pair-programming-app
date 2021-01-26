@@ -1,6 +1,6 @@
 {
   "name": "pair-programming-app",
-  "homepage":"https://sandyngu.github.io/pair-programming-app/",
+  "homepage": "https://sandyngu.github.io/pair-programming-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -37,5 +37,9 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:8080/"
+  "proxy": "http://localhost:8080/",
+  "devDependencies": {
+    "gh-pages": "^3.1.0",
+    "install": "^0.13.0"
+  }
 }
